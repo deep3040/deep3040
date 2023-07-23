@@ -14,7 +14,7 @@
 
  -  👯 I’m looking to collaborate on Open Source  and Machine Learning Projects
   
- - 💬 Ask me about **React, Node and Deep Learning.**
+ - 💬 Ask me about **Python, Node and Deep Learning.**
  
  -  📫 How to reach me patel.deep0731@gmail.com
 

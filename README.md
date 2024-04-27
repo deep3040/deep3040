@@ -5,7 +5,7 @@
 <h2 align ="center">A passionate AI ML and Web Developer from India</h2>
 
 
-<ul>Third Year Computer Engineering student at D. J. Sanghvi College of Engineering.
+<ul>FInal Year Computer Engineering student at D. J. Sanghvi College of Engineering.
 
 
  -  🔭 I’m currently working on Web Development
